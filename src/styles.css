@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.report-container {
+  display: block !important;
+  height: 80vh !important;
+  margin-top: 2em;
+}
